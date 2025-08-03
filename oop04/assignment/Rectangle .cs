@@ -8,12 +8,7 @@ namespace oop04.assignment
 {
     public class Rectangle
     {
-        /*
-         * A parameterless constructor that sets the width and height to 0.
-           A constructor that accepts width and height as integers.
-           A constructor that accepts a single integer and sets both width and height to that value.
-
-         */
+       
 
         #region Properties
         public int Width { get; set; }
